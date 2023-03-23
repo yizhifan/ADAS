@@ -1,0 +1,26 @@
+uint8 STOP = 0
+uint8 STARTING = 1
+uint8 RUNNING = 2
+uint8 STOPPING = 3
+uint8 RUNNING_WARNING = 4
+uint8 RUNNING_ERROR = 5
+uint8 NONE = 0
+uint8 RUNNING_UNKNOWN_ERROR = 1
+uint8 RUNNING_OUT_OF_ROUTE = 2
+uint8 RUNNING_OUT_OF_MAP = 3
+uint8 RUNNING_INVALID_LANE_SCENE = 4
+uint8 RUNNING_TAKING_OVER = 5
+uint8 RUNNING_UNEXPECTED_ERROR = 6
+uint8 RUNNING_IMAGE_BLACK = 7
+uint8 RUNNING_IMAGE_HIGH_LATENCY = 8
+uint8 RUNNING_IMAGE_LOST = 9
+uint8 RUNNING_POINT_CLOUD_EMPTY = 10
+uint8 RUNNING_LOCATION_LOW_ACCURACY = 11
+uint8 RUNNING_MISSING_INPUTS = 12
+std_msgs/Header header
+uint64 timestamp_us
+ModuleType module_type
+uint8 status
+uint8 detail_status
+float64 latency_ms
+string message

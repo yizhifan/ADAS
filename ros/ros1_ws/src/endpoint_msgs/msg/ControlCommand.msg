@@ -1,0 +1,12 @@
+std_msgs/Header header
+ControlCommandMeta meta
+WireControlTypeCommand wire_type_command
+BrakeCommand brake_command
+GearCommand gear_command
+SteeringCommand steering_command
+ThrottleCommand throttle_command
+AebCommand aeb_command
+VehicleLightCommand vehicle_light_command
+WindowCommand window_command
+AuxiliaryCommand auxiliary_command
+ControlCommandExtra extra

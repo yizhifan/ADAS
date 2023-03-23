@@ -1,0 +1,7 @@
+uint64 timestamp_us
+bool window_lock
+WindowType window_left_front
+WindowType window_right_front
+WindowType window_left_rear
+WindowType window_right_rear
+WindowType window_top

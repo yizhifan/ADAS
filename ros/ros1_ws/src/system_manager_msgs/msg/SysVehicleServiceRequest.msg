@@ -1,0 +1,3 @@
+std_msgs/Header header
+SystemCmdTypeEnum cmd
+SysVehicleServiceInfoForHighway highway_info

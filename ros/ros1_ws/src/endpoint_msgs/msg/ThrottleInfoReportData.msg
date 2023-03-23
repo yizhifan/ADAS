@@ -1,0 +1,8 @@
+uint64 timestamp_us
+float32 output_shaft_rpm
+float32 throttle_pedal_percent
+float32 throttle_pedal_rate
+float32 vehicle_speed_average
+float32 vehicle_mileage
+float32 reserved1
+float32 reserved2

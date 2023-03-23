@@ -1,0 +1,12 @@
+uint64 timestamp_us
+bool wiper_enable
+WiperCommandType front_wiper
+WiperCommandType rear_wiper
+bool rearview_mirror
+PowerModeType vehicle_power
+bool vehicle_lock
+bool seat_belt_alarm
+bool seat_belt_tightening
+bool steering_wheel_alarm
+bool buzzer_alarm
+bool horn_enable

@@ -1,0 +1,9 @@
+uint8 gpu_id
+float32 gpu_current_percent
+float32 gpu_average_percent
+float32 gpu_memory_current_percent
+float32 gpu_memory_average_percent
+float32 gpu_temperature
+float32 gpu_power
+string[] top_processes
+string reserved_info

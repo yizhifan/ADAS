@@ -1,0 +1,3 @@
+uint8 FLEET_DISK_STATUS_DATA = 1
+uint8 available
+FleetDiskStatusData fleet_disk_status_data

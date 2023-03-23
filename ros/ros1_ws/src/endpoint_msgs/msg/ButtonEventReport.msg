@@ -1,0 +1,3 @@
+uint8 BUTTON_EVENT_REPORT_DATA = 1
+uint8 available
+ButtonEventReportData button_event_report_data

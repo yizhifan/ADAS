@@ -1,0 +1,10 @@
+int32 max_num_iterations
+float64 soft_boundary_scale
+float64 hard_boundary_scale
+float64 init_curvature_scale
+float64 curvature_limit_scale
+float64 lat_accel_scale
+float64 lat_jerk_scale
+float64 heading_scale
+float64 ref_centering_scale
+float64 prev_plan_centering_scale

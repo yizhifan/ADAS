@@ -1,0 +1,6 @@
+uint64 timestamp_us
+bool seat_belt_alarm
+bool seat_belt_tightening
+bool steering_wheel_alarm
+bool buzzer_alarm
+bool valid

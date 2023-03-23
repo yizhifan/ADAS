@@ -1,0 +1,3 @@
+uint8 THROTTLE_INFO_REPORT_DATA = 1
+uint8 available
+ThrottleInfoReportData throttle_info_report_data

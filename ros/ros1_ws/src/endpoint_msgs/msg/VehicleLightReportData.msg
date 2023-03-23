@@ -1,0 +1,10 @@
+uint64 timestamp_us
+WorkType driver_work_type
+TurnSignal turn_signal_type
+FrontLightState front_light
+bool width_light
+bool reversing_light
+bool front_fog_light
+bool rear_fog_light
+LeverStatus lever_state
+bool valid

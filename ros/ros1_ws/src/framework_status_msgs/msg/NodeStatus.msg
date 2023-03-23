@@ -1,0 +1,9 @@
+uint64 timestamp_us
+uint16 node_type
+uint16 task_type
+uint16 status
+uint16 detail_status
+float32 detail_value
+string reserved_info
+string message
+system_manager_msgs/RunningModeEnum running_mode

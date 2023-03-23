@@ -1,0 +1,2 @@
+
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/xiaofendui/Work/cm_simplat/devel -DCMAKE_INSTALL_PREFIX=/home/xiaofendui/Work/cm_simplat/install -G Unix Makefiles

@@ -1,0 +1,3 @@
+uint8 VEHICLE_ALARM_REPORT_DATA = 1
+uint8 available
+VehicleAlarmReportData vehicle_alarm_report_data

@@ -1,0 +1,2 @@
+LaneChangeTypeEnum type
+LaneChangeDirectionEnum direction

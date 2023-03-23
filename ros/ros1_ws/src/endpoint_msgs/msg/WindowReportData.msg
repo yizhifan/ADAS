@@ -1,0 +1,8 @@
+uint64 timestamp_us
+bool window_lock
+WindowState window_state_left_front
+WindowState window_state_right_front
+WindowState window_state_left_rear
+WindowState window_state_right_rear
+WindowState window_state_top
+bool valid

@@ -1,0 +1,10 @@
+std_msgs/Header header
+bool is_replan
+float64 ego_x
+float64 ego_y
+float64 ego_dx_ds
+float64 ego_dy_ds
+float64 ego_s
+float64 ego_init_curvature
+PathSegmentInfo[] path_segments
+PathTuningParams path_tuning_params

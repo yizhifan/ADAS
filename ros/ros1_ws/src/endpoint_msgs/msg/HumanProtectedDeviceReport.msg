@@ -1,0 +1,3 @@
+uint8 HUMAN_PROTECTED_DEVICE_REPORT_DATA = 1
+uint8 available
+HumanProtectedDeviceReportData human_protected_device_report_data

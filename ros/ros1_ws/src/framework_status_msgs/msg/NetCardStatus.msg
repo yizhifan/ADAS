@@ -1,0 +1,14 @@
+string net_card_name
+float32 bytes_sent_rate
+float32 bytes_recv_rate
+float32 packets_sent_rate
+float32 packets_recv_rate
+float32 errin_rate
+float32 errout_rate
+float32 dropin_rate
+float32 dropout_rate
+bool net_card_isup
+uint8 duplex
+uint32 speed
+uint32 mtu
+string reserved_info

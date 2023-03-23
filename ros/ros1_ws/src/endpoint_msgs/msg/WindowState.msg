@@ -1,0 +1,4 @@
+uint8 WINDOW_CLOSED = 0
+uint8 WINDOW_OPENED = 1
+uint8 WINDOW_MIDDLE = 2
+uint8 value

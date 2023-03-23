@@ -1,0 +1,14 @@
+uint64 timestamp_us
+AebSysStatus aeb_system_status
+AebSysFaultStatus aeb_system_fault_status
+AebBrkJerkResp awb_status
+AebDclResp dcl_status
+HbaStatus hba_status
+AebPrflResp prfl_status
+bool aeb_valid
+FcwStatus fcw_status
+bool fcw_valid
+VseSysState vse_state
+bool vse_valid
+SwcStatus swc_status
+bool swc_valid

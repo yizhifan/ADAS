@@ -1,0 +1,15 @@
+uint64 timestamp_us
+CtaState cta_lf
+CtaState cta_rf
+CtaState cta_lr
+CtaState cta_rr
+bool cta_valid
+DlpStatus dlp_state
+bool dlp_valid
+HdcState hdc_state
+bool hdc_valid
+LdpStatus ldp_status_left_lane
+LdpStatus ldp_status_right_lane
+bool ldp_valid
+LdwStatus ldw_status
+bool ldw_valid

@@ -1,0 +1,8 @@
+uint64 timestamp_us
+float32 linear_acceleration_lat
+float32 linear_acceleration_lon
+float32 linear_acceleration_vert
+float32 angular_velocity_roll
+float32 angular_velocity_pitch
+float32 angular_velocity_yaw
+bool valid

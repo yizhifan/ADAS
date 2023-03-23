@@ -1,0 +1,10 @@
+uint64 timestamp_us
+bool rearview_mirror
+PowerModeType vehicle_power_mode
+bool vehicle_power_valid
+bool vehicle_lock
+bool vehicle_horn
+RainSensorLevel rain_sensor_level
+float32 vehicle_speed_on_dashboard
+float32 vehicle_outside_temp
+float32 vechile_inside_temp

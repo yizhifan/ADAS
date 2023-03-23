@@ -1,0 +1,15 @@
+### BEGIN IPG-MOVIE-INFO
+
+
+
+# Wheel.fl 4.0500 0.8000 0.39555 	0.39 0.24 0.0 IM_wheel_front_left.kmz
+# Wheel.fr 4.0500 -0.8000 0.39555 	0.39 0.24 0.0 IM_wheel_front_right.kmz
+# Wheel.rl 0.99 0.8000 0.39555 	    0.39 0.24 0.0 IM_wheel_rear_left.kmz
+# Wheel.rr 0.99 -0.8000 0.39555 	0.39 0.24 0.0 IM_wheel_rear_right.kmz
+
+
+# Include IM_Vehivle_Body.kmz
+
+
+
+### END IPG-MOVIE-INFO

@@ -1,0 +1,3 @@
+uint8 AUXILIARY_REPORT_DATA = 1
+uint8 available
+AuxiliaryReportData auxiliary_report_data

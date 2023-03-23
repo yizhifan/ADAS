@@ -1,0 +1,7 @@
+uint8 STANDARD_MODE = 0
+uint8 COMFORTABLE_MODE = 1
+uint8 SPORT_MODE = 2
+uint8 AD_MODE = 3
+uint8 ADLOCK_MODE = 4
+uint8 RESERVED = 5
+uint8 value

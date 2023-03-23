@@ -1,0 +1,12 @@
+uint64 timestamp_us
+WorkType driver_work_type
+SteeringType steering_type
+float32 steering_cmd
+float32 steering_report
+float32 steering_wheel_angle_report
+float32 steering_wheel_torque_report
+float32 steering_follow_rate
+RWhSteerModType rws_mode_report
+float32 rws_angle
+bool override
+bool valid

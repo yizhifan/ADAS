@@ -1,0 +1,5 @@
+uint64 timestamp_us
+WorkType driver_work_type
+EpbStatus epb_report
+AutoHoldStatus auto_hold_state
+bool valid

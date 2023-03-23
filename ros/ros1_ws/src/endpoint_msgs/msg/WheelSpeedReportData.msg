@@ -1,0 +1,10 @@
+uint64 timestamp_us
+float32 front_left
+float32 front_right
+float32 rear_left
+float32 rear_right
+float32 front_left_mps
+float32 front_right_mps
+float32 rear_left_mps
+float32 rear_right_mps
+bool valid

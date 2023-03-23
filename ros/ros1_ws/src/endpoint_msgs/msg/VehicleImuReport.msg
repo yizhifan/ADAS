@@ -1,0 +1,3 @@
+uint8 VEHICLE_IMU_REPORT_DATA = 1
+uint8 available
+VehicleImuReportData vehicle_imu_report_data

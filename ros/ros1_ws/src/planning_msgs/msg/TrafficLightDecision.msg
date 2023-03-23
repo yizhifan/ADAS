@@ -1,0 +1,5 @@
+int32 traffic_light_state
+int32 stop_reason
+bool stop_flag
+bool is_passed_stop_line
+bool faster_pass

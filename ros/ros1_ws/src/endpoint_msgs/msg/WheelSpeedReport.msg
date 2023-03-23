@@ -1,0 +1,3 @@
+uint8 WHEEL_SPEED_REPORT_DATA = 1
+uint8 available
+WheelSpeedReportData wheel_speed_report_data

@@ -1,0 +1,4 @@
+uint8 SWC_STATUS_NOT_ACTIVE = 0
+uint8 SWC_STATUS_NORMAL = 1
+uint8 SWC_STATUS_ERROR = 2
+uint8 value

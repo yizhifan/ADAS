@@ -1,0 +1,5 @@
+uint8 NO_WARNING = 0
+uint8 WARNING_LEVEL1 = 1
+uint8 WARNING_LEVEL2 = 2
+uint8 RESERVED = 3
+uint8 value

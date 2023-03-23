@@ -1,0 +1,9 @@
+string sn
+string disk_type
+string status
+uint64 space_size
+uint64 space_used
+string driver
+string speed
+int64 availability
+string reserved_info

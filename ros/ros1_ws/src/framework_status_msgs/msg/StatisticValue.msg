@@ -1,0 +1,5 @@
+float32 average
+float32 standard_deviation
+float32 max_value
+float32 min_value
+string reserved_info

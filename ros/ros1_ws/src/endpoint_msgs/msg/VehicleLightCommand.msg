@@ -1,0 +1,3 @@
+uint8 VEHICLE_LIGHT_COMMAND_DATA = 1
+uint8 available
+VehicleLightCommandData vehicle_light_command_data

@@ -1,0 +1,10 @@
+string process_name
+bool is_alive
+uint8 num_threads
+float32 voluntary_ctxt_switches_rate
+float32 nonvoluntary_ctxt_switches_rate
+float32 cpu_current_percent
+float32 cpu_average_percent
+float32 memory_current_percent
+float32 memory_average_percent
+string reserved_info

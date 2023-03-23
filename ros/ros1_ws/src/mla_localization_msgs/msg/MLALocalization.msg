@@ -1,0 +1,16 @@
+std_msgs/Header header
+MLALocalizationMeta meta
+MLAPosition position
+MLAVelocity velocity
+MLAAngularVelocity angular_velocity
+MLAOrientation orientation
+MLAAcceleration acceleration
+MLAPositionStd position_std
+MLAVelocityStd velocity_std
+MLAAngularVelocityStd angular_velocity_std
+MLAOrientationStd orientation_std
+MLAAccelerationStd acceleration_std
+MLAStatus status
+MLATransform transform
+MLAPoseDetail pose_detail
+MLAReserved reserved

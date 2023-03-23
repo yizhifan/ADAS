@@ -1,0 +1,40 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Tire-RTTire 3
+FileCreator = tireutil v10.1, 2022-07-08, 09:28:48
+CreateArgs = -if Data/Tire/Examples/RT_275_55R20_p2.50.tdx -of Data/Tire/Examples/RT_275_55R20_p2.50 
+
+Description:
+	Created with IPG Tire Data Set Generator - Version Date: 2021-04-06
+	Generated - not validated - Tire data
+	Based on 'RT_275_55R20_p2.50.tdx'
+	""
+	#   Load:      32 points [ 0 N  to  16875 N ]
+	#   Slip:     128 points [ -0.15   to  0.15 ]
+	#   Alpha:    128 points [ -12 deg  to  12 deg ]
+
+Side = left
+muRoad = 1
+
+Radial.Stiffness = 406712
+Radial.Damping = 6764.2
+
+KinRollRadius = 0.394158
+NomRadius = 0.4055
+NomWidth = 0.275
+AspectRatio = 0.55
+
+FLoadMax = 13500
+
+LongFrc.Length = 0.05
+SideFrc.Length = 0.1
+AlignTrq.Length = 0.1
+
+StandStill.cLong = 0.01
+StandStill.cSide = 0.2
+
+
+RollResist.Kind = TrqLoad
+RollResist.Factor = 0.0214
+
+BinFName = RT_275_55R20_p2.50.bin
+

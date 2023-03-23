@@ -1,0 +1,13 @@
+std_msgs/Header header
+StateReportMeta meta
+VehicleLightReport vehicle_light_report
+ButtonEventReport button_report
+DoorReport door_report
+TirePressureReport tire_report
+WindowReport window_report
+WiperReport wiper_report
+EnergyRemainingReport energy_remaining_report
+VehicleAlarmReport vehicle_alarm_report
+VehicleExtraReport vehicle_extra_report
+HumanProtectedDeviceReport human_protected_device_report
+AuxiliaryReport auxiliary_report

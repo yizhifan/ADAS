@@ -1,0 +1,8 @@
+std_msgs/Header header
+CPUStatus cpu_status
+DiskStatus disk_status
+GPUStatus gpu_status
+MemoryStatus memory_status
+NetStatus net_status
+ProcessStatus process_status
+TimeStatus time_status

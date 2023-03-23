@@ -1,0 +1,5 @@
+uint8 FORBIDDEN = 0
+uint8 INTERACTIVE = 1
+uint8 REMOVE_FORBIDDEN = 2
+uint8 REMOVE_INTERACTIVE = 3
+uint8 value

@@ -1,0 +1,3 @@
+uint8 BRAKE_INFO_REPORT_DATA = 1
+uint8 available
+BrakeInfoReportData brake_info_report_data

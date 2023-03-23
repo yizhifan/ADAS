@@ -1,0 +1,14 @@
+uint64 timestamp_us
+WrlsChrgWifiSts link_state
+WrlsChrgDetResult detected_state
+bool is_offset_x_vaild
+bool is_offset_y_vaild
+bool is_yaw_valid
+int32 offset_x
+int32 offset_y
+float32 yaw
+int32 rltv_pos_of_charge_board_x
+int32 rltv_pos_of_charge_board_y
+int32 charge_board_size_x
+int32 charge_board_size_y
+string reserved

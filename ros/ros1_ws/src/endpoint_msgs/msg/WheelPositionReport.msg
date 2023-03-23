@@ -1,0 +1,3 @@
+uint8 WHEEL_POSITION_REPORT_DATA = 1
+uint8 available
+WheelPositionReportData wheel_position_report_data

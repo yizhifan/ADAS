@@ -1,0 +1,6 @@
+uint8 LIGHT_OFF = 0
+uint8 LOW_BEAM_LIGHT = 1
+uint8 HIGH_BEAM_LIGHT = 2
+uint8 OVERTAKING_FLASH = 3
+uint8 LIGHT_AUTO = 4
+uint8 value

@@ -1,0 +1,5 @@
+uint64 timestamp_us
+WorkType driver_work_type
+WiperStateType front_wiper_state
+WiperStateType rear_wiper_state
+bool valid

@@ -1,0 +1,9 @@
+uint8 SYETEM_REQ_NONE = 0
+uint8 SYSTEM_REQ_PILOT = 1
+uint8 SYSTEM_REQ_APA = 2
+uint8 SYSTEM_REQ_ACC = 3
+uint8 SYSTEM_REQ_AVP = 4
+uint8 SYSTEM_REQ_LVP = 5
+uint8 SYSTEM_REQ_MRC = 6
+uint8 RESERVED = 7
+uint8 wire_control_type

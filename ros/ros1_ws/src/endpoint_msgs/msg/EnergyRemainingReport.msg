@@ -1,0 +1,3 @@
+uint8 ENERGY_REMAINING_REPORT_DATA = 1
+uint8 available
+EnergyRemainingReportData energy_remaining_report_data

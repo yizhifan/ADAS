@@ -1,0 +1,4 @@
+Point2d position_enu
+float64 heading_yaw
+float64 curvature
+float64 path_follow_strength

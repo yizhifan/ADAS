@@ -1,0 +1,2 @@
+float32 navi_max_speed
+NaviTimeDistance navi_time_distance

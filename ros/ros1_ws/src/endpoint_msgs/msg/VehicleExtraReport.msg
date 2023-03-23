@@ -1,0 +1,3 @@
+uint8 VEHICLE_EXTRA_REPORT_DATA = 1
+uint8 available
+VehicleExtraReportData vehicle_extra_report_data

@@ -1,0 +1,6 @@
+uint64 timestamp_us
+AebBrkJerkReq awb_request
+AebDclReqSts dcl_req_state
+float32 dcl_req_command
+AebHydBrkReq hba_request_level
+bool prefill_request
